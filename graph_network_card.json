@@ -1,0 +1,29 @@
+{
+    "overall": {
+        "Name": "US Flights",
+        "Kind": "Directed, unweighted",
+        "Nodes are": "Airports",
+        "Links are": "Flights between airports"
+    },
+    "structure": {
+        "Number of nodes": 2278,
+        "Number of links": 6390340,
+        "--- Bidirectional links": 99.35948634970909,
+        " %Degree ": [
+            "2805.241439859526",
+            "[ 0 , 154765 ]",
+            "Distributions summarized with average [min, max]"
+        ],
+        "Connected": "Yes"
+    },
+    "metainfo": {
+        "Node metadata": "City Name, State Abbr. and position (lat/long)",
+        "Link metadata": "None",
+        "Date of creation": "2024-03-10",
+        "Data generating process": "Network data was downloaded from the link below and the data was process via the graph-tools package",
+        "Ethics": "n/a",
+        "Funding": "None",
+        "Citation": "None",
+        "Access": "https://networks.skewed.de/net/us_air_traffic#None_draw"
+    }
+}
